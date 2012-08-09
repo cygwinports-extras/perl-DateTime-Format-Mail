@@ -1,4 +1,0 @@
-category: Perl
-requires: perl perl-DateTime perl-Params-Validate
-sdesc: "Perl RFC2822/DateTime conversion module"
-ldesc: "Perl module for converting between DateTime and RFC2822/822 formats"
