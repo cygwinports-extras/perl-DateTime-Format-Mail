@@ -1,9 +1,9 @@
-CPAN_AUTHOR=drolsky
+CPAN_AUTHOR=book
 inherit perl
 
 NAME="perl-DateTime-Format-Mail"
-VERSION=0.3001
-RELEASE=2
+VERSION=0.401
+RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl RFC2822 date conversion module"
 DESCRIPTION="Perl module for conversion between DateTime and RFC2822/822 formats"
